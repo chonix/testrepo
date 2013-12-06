@@ -10,5 +10,5 @@
     "repository":  "android_device_samsung_tuna",
     "target_path": "deviice/samsung/tuna",
     "revision":    "android-4.4"
-  },
+  }
 ]
