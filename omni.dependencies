@@ -7,8 +7,8 @@
     },
     {
         "remote": "omnirom",
-        "repository": "android_device_samsung_tuna",
-        "target_path": "deviice/samsung/tuna",
+        "repository": "android_device_samsung_maguro",
+        "target_path": "device/samsung/maguro",
         "revision": "android-4.4"
     }
 ]

@@ -20,7 +20,14 @@ BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/samsung/maguro/bluetooth
 -include vendor/samsung/maguro/BoardConfigVendor.mk
 
 # Use the part that is common between all tunas
-include device/samsung/tuna/BoardConfig.mk
+# include device/samsung/maguro/BoardConfig.mk
 
 #TWRP
-DEVICE_RESOLUTION := 720 x 1280
+DEVICE_RESOLUTION := 720x1280
+
+TARGET_ARCH=arm
+TARGET_ARCH_VARIANT=armv7-a-neon
+TARGET_CPU_ABI=armeabi-v7a
+TARGET_CPU_ABI2=armeabi
+TARGET_BOARD_PLATFORM=msm7k
+TARGET_CPU_VARIANT=cortex-a9
