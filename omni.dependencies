@@ -1,14 +1,14 @@
 [
-  {
-    "remote":      "omnirom",
-    "repository":  "android_kernel_samsung_tuna",
-    "target_path": "kernel/samsung/tuna",
-    "revision":    "android-4.4"
-  },
-  {
-    "remote":      "omnirom",
-    "repository":  "android_device_samsung_tuna",
-    "target_path": "deviice/samsung/tuna",
-    "revision":    "android-4.4"
-  }
+    {
+        "remote": "omnirom",
+        "repository": "android_kernel_samsung_tuna",
+        "target_path": "kernel/samsung/tuna",
+        "revision": "android-4.4"
+    },
+    {
+        "remote": "omnirom",
+        "repository": "android_device_samsung_tuna",
+        "target_path": "deviice/samsung/tuna",
+        "revision": "android-4.4"
+    }
 ]
