@@ -22,3 +22,5 @@ BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/samsung/maguro/bluetooth
 # Use the part that is common between all tunas
 include device/samsung/tuna/BoardConfig.mk
 
+#TWRP
+DEVICE_RESOLUTION := 720 x 1280
