@@ -1,20 +1,14 @@
 [
   {
     "remote":      "omnirom",
-    "repository":  "android_device_samsung_maguro-common",
-    "target_path": "device/htc/msm8960-common",
+    "repository":  "android_kernel_samsung_tuna",
+    "target_path": "kernel/samsung/tuna",
     "revision":    "android-4.4"
   },
   {
     "remote":      "omnirom",
-    "repository":  "android_device_samsung_maguro",
-    "target_path": "device/htc/m7-common",
+    "repository":  "android_device_samsung_tuna",
+    "target_path": "deviice/samsung/tuna",
     "revision":    "android-4.4"
   },
-  {
-    "remote":      "omnirom",
-    "repository":  "android_kernel_maguro",
-    "target_path": "kernel/htc/m7",
-    "revision":    "android-4.4"
-  }
 ]
